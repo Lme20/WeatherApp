@@ -25,3 +25,5 @@ Due to the simplicity of this program, its usage is only possible through a live
 ## 2. Usage
 
 Using WeatherApp is very simple, write down your city of choice and the program will show its current weather. You can both press enter or simply click on the search lens. 
+
+<img src="https://github.com/Lme20/WeatherApp/blob/main/source/gif-compressed.gif" width="450"> 
