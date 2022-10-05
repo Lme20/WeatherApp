@@ -4,6 +4,8 @@ A simple program which implements Openweathermaps API for weather details on spe
 
 <img src="https://github.com/Lme20/WeatherApp/blob/main/source/screenshot_prev.png" width="450"> 
 
+Note: best adapted to phones and 1920 X 1080 monitors. 
+
 ## 1. Installation
 
 As for a fast preview, you can use the following link to see the program in action: [WeatherApp Github page](https://lme20.github.io/WeatherApp/)
