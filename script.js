@@ -1,7 +1,7 @@
 //Object for storing functions and variables
 let weather = {
     //apiKey from Openweathermaps
-    "apiKey": "insert Openweathermaps key here",
+    "apiKey": "393a902fb25c50a0069c159c92bc71b4",
 
     //function fetchWeather with parameter city
     fetchWeather: function(city) {
