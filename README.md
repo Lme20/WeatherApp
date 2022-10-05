@@ -1,10 +1,12 @@
 # WeatherApp-project
 
-A simple program which implements Openweathermaps API for weather details on specific locations, including temperature, weather description, wind speed and humidity. 
+A simple program which implements Openweathermaps API for weather details on specific locations, including temperature, weather description, wind speed and humidity. More specifically, this basic program implements http://openweathermap.org/current, all input data is obtained through the API. 
 
 <img src="https://github.com/Lme20/WeatherApp/blob/main/source/screenshot_prev.png" width="450"> 
 
 Note: best adapted to phones and 1920 X 1080 monitors. 
+
+As a simple yet cool feature, images rendered in the program will be related to the searched location. 
 
 ## 1. Installation
 
